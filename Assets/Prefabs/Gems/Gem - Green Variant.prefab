@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1223975285114252424
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3229969907188256521, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 3229969907188256521, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268754, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268754, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: destroyEffect
+      value: 
+      objectReference: {fileID: 6824818033971817411, guid: 9a9dc8ff3d7b7db4bb4a6667dce3d9b6, type: 3}
+    - target: {fileID: 5467650109296268755, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_Name
+      value: Gem - Green Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268764, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268764, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268764, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268764, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268764, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268764, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268764, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268764, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268764, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268764, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268764, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467650109296268765, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 41a48e75bf9870f47bc518383bfb6a1c, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9dd9910bdd2a7ad4fa2ddc29d315adc0, type: 3}
